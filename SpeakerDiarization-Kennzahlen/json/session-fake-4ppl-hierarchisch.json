@@ -1,0 +1,15 @@
+{"speech":[
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":73,"SpeechStart":0,"ID":0,"SpeechEnd":15},
+{"Speaker_Name":"Speaker2","SpeechTime":15,"Similarity":68,"SpeechStart":15,"ID":1,"SpeechEnd":30},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":67,"SpeechStart":30,"ID":2,"SpeechEnd":45},
+{"Speaker_Name":"Speaker3","SpeechTime":15,"Similarity":72,"SpeechStart":45,"ID":3,"SpeechEnd":60},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":75,"SpeechStart":60,"ID":4,"SpeechEnd":75},
+{"Speaker_Name":"Speaker4","SpeechTime":15,"Similarity":74,"SpeechStart":75,"ID":5,"SpeechEnd":90},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":73,"SpeechStart":90,"ID":6,"SpeechEnd":105},
+{"Speaker_Name":"Speaker2","SpeechTime":15,"Similarity":72,"SpeechStart":105,"ID":7,"SpeechEnd":120},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":70,"SpeechStart":120,"ID":8,"SpeechEnd":135},
+{"Speaker_Name":"Speaker3","SpeechTime":15,"Similarity":69,"SpeechStart":135,"ID":9,"SpeechEnd":150},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":69,"SpeechStart":150,"ID":10,"SpeechEnd":165},
+{"Speaker_Name":"Speaker4","SpeechTime":15,"Similarity":68,"SpeechStart":165,"ID":11,"SpeechEnd":180},
+{"Speaker_Name":"Speaker1","SpeechTime":15,"Similarity":66,"SpeechStart":180,"ID":12,"SpeechEnd":195}
+]}
